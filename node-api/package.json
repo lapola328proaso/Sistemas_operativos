@@ -1,0 +1,13 @@
+{
+  "name": "api-taller-so-juan",
+  "version": "2.0.0",
+  "description": "API de prueba para taller Docker - Juan Manuel Polania Navarro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  }
+}
